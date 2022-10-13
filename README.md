@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AWS re/start program
 - 👯 I’m looking to collaborate on cool projects
 - 🤔 I’m looking for help with understanding cloud and React
-- 💬 Ask me about Python, Django, Flask, Angular,Html, Css, SEO
+- 💬 Ask me about Python, Django, Flask, Angular,Html, Css,Javascript,SEO
 - 📫 How to reach me: ndiemam@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: .I love designing ,taking cool photos and Travelling
