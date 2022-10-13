@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on....
+- 🔭 I’m currently working on creating a professional website using Django
 - 🌱 I’m currently learning AWS re/start program
 - 👯 I’m looking to collaborate on cool projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with understanding cloud and React
 - 💬 Ask me about Python, Django, Flask, Angular,Html, Css, SEO
 - 📫 How to reach me: ndiemam@gmail.com
 - 😄 Pronouns: She/her
